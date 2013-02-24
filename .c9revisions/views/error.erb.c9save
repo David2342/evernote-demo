@@ -1,0 +1,2 @@
+{"ts":1361733176951,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1361733174215,"patch":[[{"diffs":[[1,"<html>\n<body>\n<p style=\"color: #ff3d23;\"><%= @message %></p>\n\n<%= erb :_return_to_lms %>\n\n<h3>Parameters</h3>\n<table>\n  <% params.keys.sort.each do |key| %>\n    <tr>\n      <td><%= key %></td>\n      <td><%= params[key] %></td>\n    </tr>\n  <% end %>\n</table>\n\n</body>\n</html>"]],"start1":0,"start2":0,"length1":0,"length2":273}]],"length":273,"saved":false}

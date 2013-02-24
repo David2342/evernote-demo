@@ -1,0 +1,2 @@
+{"ts":1361732801185,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1361732812548,"patch":[[{"diffs":[[1,"; This file must be copied or renamed to settings.ini and filled out\n; for the application to function.\n\n; Evernote API details\n[evernote]\nkey = example\nsecret = thisisanexamplesecret\n\n; Currently will only support PostgreSQL\n[database]\nhost = example.com\ndatabase = example\nport = 5432\nuser = example\npassword = example"]],"start1":0,"start2":0,"length1":0,"length2":320}]],"length":320,"saved":false}

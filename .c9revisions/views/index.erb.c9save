@@ -1,0 +1,2 @@
+{"ts":1361733136062,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1361733134293,"patch":[[{"diffs":[[1,"<html>\n<head>\n<title>Evernote LTI Interface</title>\n</head>\n<body>\n<p>This LTI tool is in early development and not yet ready for use.</p>\n<p>You can get the configuration XML here: <a href=\"/tool_config.xml\">LTI Config</a></p>\n</body>\n</html>"]],"start1":0,"start2":0,"length1":0,"length2":243}]],"length":243,"saved":false}
