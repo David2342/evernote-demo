@@ -1,0 +1,2 @@
+{"ts":1361732123591,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1361732267507,"patch":[[{"diffs":[[1,"<% if @tp.launch_presentation_return_url %>\n  <a href=\"<%= @tp.build_return_url %>\">Click here to return to <%= @tp.tool_consumer_instance_name || \"your LMS\" %>.</a>\n<% end %>"]],"start1":0,"start2":0,"length1":0,"length2":175}]],"length":175,"saved":false}

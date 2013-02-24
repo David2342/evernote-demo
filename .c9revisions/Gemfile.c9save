@@ -1,0 +1,2 @@
+{"ts":1361732609865,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1361732614567,"patch":[[{"diffs":[[1,"source 'https://rubygems.org'\n\ngem 'sinatra'\ngem 'pg'\ngem 'ims-lti',   \"~>1.0.2\"\ngem 'oauth'\ngem 'ini'\n\ngroup :development do\n  gem 'shotgun'\nend\n"]],"start1":0,"start2":0,"length1":0,"length2":146}]],"length":146,"saved":false}
